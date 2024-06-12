@@ -1,0 +1,33 @@
+# Arquivos de configuração
+config.ini
+database_credentials.json
+
+# Arquivos de compilação
+*.class
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de IDE NetBeans
+/nbproject/
+
+# Dependências de pacotes geradas pelo NetBeans
+/dist/
+/build/
+
+# Dependências de pacotes
+libs/
+*.jar
+
+# Arquivos de compilação de linguagens específicas
+*.pyc
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.egg-info
+
+# Arquivo de conexão Java
+/src/DAO/Conexao.java
